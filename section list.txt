@@ -1,0 +1,53 @@
+
+
+
+
+[craft_-400] DLTX MiniMod_Hunting Backpacks
+[craft_-400] Hunter's Kit - A Butchery Engine
+[craft_-390] Outfit Attachment Overhaul
+[craft_-390] Outfit Attachment Overhaul (Revised Crafting Recipes)
+[craft_-385] Pouches and more addon for Mags Redux
+[craft_-380] Hunter's Kit - A Butchery Engine (Base equipment reorganization)
+[craft_-380] Backpacks of the Zone (Base equipment reorganization)
+[craft_-380] DLTX MiniMod_Hunting Backpacks (Base equipment reorganization)
+[craft_-370] Backpacks of the Zone
+[craft_-350] Powered Exoskeleton
+
+[craft_-300] Fatal Error
+[craft_-250] Outfit Parts Overhaul
+
+[craft_-190] Streamlined Upgrades
+
+[craft_-100] New Medkits and Bandages
+[craft_-80] Drugs That Make Sense
+[craft_-80] Drugs That Make Sense (Base medical reorganization)
+
+
+[craft_10] Russian Ammo Expansion
+[craft_20] MrB's 10mm Auto Ecosystem
+[craft_90] Molotov Cocktails
+[craft_90] Anomalous Grenades
+[craft_100] Remote IED
+
+[craft_0] Anomaly Ballistics [AlzHighMr]
+[craft_10-40-50-60-80] Russian Ammo Expansion (Anomaly Ballistics)
+[craft_20] MP7 Re-Imagined 4.6x30mm addon (Anomaly Ballistics)
+[craft_20] MrB's 10mm Auto Ecosystem (Anomaly Ballistics)
+[craft_20-40-80] BaS ammo (Anomaly Ballistics)
+[craft_30] Speedloaders and ammo for revolvers (Anomaly Ballistics)
+[craft_60] 50 Beowulf Weapon Pack (Anomaly Ballistics)
+[craft_70] .300 Blackout RWAP (Anomaly Ballistics)
+[craft_70] .300 Blackout Honey Badger (Anomaly Ballistics)
+[craft_90] Molotov Cocktails (Anomaly Ballistics)
+[craft_90] Anomalous Grenades (Anomaly Ballistics)
+[craft_100] Remote IED (Anomaly Ballistics)
+
+[craft_110] Deadmeme's Anomalous Mines
+[craft_120] GT Urban Tactics
+[craft_120] GT Urban Tactics - Expanded
+
+[craft_200-300] Hideout Furniture
+[craft_200-300] Hideout Furniture Expansion
+[craft_200-300] Even More Hideout Furniture (Hideout Furniture)
+[craft_250] Saint's Bits of Culture
+[craft_280] Saint's Bits of Culture (Hideout Furniture)
