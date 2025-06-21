@@ -1,0 +1,13 @@
+--MazConnelly: code disabled so the BCSI patch works correctly.
+
+-- -- add recipes for the pouches
+-- function add_recipes()
+    -- -- fannypack
+	-- workshop_autoinject.add_new_recipe(1, "af_fanny_pack", "1, recipe_basic_0, prt_o_fabrics_1,4,rope,2,prt_i_scrap,1,sewing_thread,3")
+	-- -- sidebag
+	-- workshop_autoinject.add_new_recipe(1, "af_sidebag", "2, recipe_basic_0, prt_o_fabrics_1,10,rope,4,prt_i_scrap,5,sewing_thread,8")
+-- end
+
+-- function on_game_start()
+	-- add_recipes()
+-- end

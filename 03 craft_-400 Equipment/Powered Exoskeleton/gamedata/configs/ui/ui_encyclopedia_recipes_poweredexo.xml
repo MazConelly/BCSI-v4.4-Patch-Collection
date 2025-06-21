@@ -1,0 +1,8 @@
+<w>
+ <!--   <file name="ui\rezone_ui\encyclopedia_rezone_ui"> -->
+<file name="ui\ui_console">
+	<texture id="encyclopedia__notes_recipe_exo_1_text" x="0" y="0" width="0" height="0"/>
+	<texture id="encyclopedia__notes_recipe_exo_2_text"  x="0" y="0" width="0" height="0"/>
+	<texture id="encyclopedia__notes_recipe_exo_3_text"  x="0" y="0" width="0" height="0"/>
+   </file>
+</w>
