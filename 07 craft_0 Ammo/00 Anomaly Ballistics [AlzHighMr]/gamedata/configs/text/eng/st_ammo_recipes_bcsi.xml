@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="st_ammocomponents_craftingtitle">
+		<text>Ammo (components)</text>
+	</string>
+
+	<string id="st_ammopistolsmall_craftingtitle">
+		<text>Ammo, pistol (small)</text>
+	</string>
+
+	<string id="st_ammopistollarge_craftingtitle">
+		<text>Ammo, pistol (large)</text>
+	</string>
+
+	<string id="st_ammomagnum_craftingtitle">
+		<text>Ammo, magnum</text>
+	</string>
+
+	<string id="st_ammoshotgun_craftingtitle">
+		<text>Ammo, shotgun</text>
+	</string>
+
+	<string id="st_ammoriflesmall_craftingtitle">
+		<text>Ammo, rifle (small)</text>
+	</string>
+
+	<string id="st_ammoriflelarge_craftingtitle">
+		<text>Ammo, rifle (large)</text>
+	</string>
+
+	<string id="st_ammoriflesubsonic_craftingtitle">
+		<text>Ammo, rifle (subsonic)</text>
+	</string>
+
+	<string id="st_ammosniper_craftingtitle">
+		<text>Ammo, sniper & LMG</text>
+	</string>
+
+	<string id="st_ammoother_craftingtitle">
+		<text>Ammo, other</text>
+	</string>
+
+	<string id="st_ammoexplosive_craftingtitle">
+		<text>Explosives, IEDs</text>
+	</string>
+
+</string_table>

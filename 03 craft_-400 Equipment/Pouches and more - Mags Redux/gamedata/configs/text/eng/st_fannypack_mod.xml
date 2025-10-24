@@ -1,44 +1,43 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
 	<string id="st_fannypack_name">
-        <text>Zone-made fanny pack.</text>
+        <text>Zone-made fanny pack</text>
     </string>
 	    <string id="st_fannypack_desc">
-        <text>A Zone-made Fannypack that helps mitigate the cargo a little, created for the need of distribute the cargo, even if it is a small pack in the belt. Can also hold a small magazine if needed. a lot of stalkers use it at a daily basis, making it easy to find.\n \n
+        <text>A Zone-made Fannypack that helps mitigate the cargo a little, created for the need of distribute the cargo, even if it is a small pack in the belt. Can also hold a small magazine if needed. a lot of stalkers use it at a daily basis, making it easy to find.\n
 		%c[ui_gray_2]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] Everyday item\n
-		%c[d_cyan] • %c[ui_gray_2] Can be worn on the belt\n
-		</text>
+		%c[d_cyan] • %c[ui_gray_2] Can be worn on the belt</text>
     </string>
-		<string id="st_fannypackadidas_name">
-        <text>Adidas fanny pack.</text>
+	
+	<string id="st_fannypackadidas_name">
+        <text>Adidas fanny pack</text>
     </string>
 	    <string id="st_fannypackadidas_desc">
-        <text>.Adidas Fanny pack, not so different that the zone made one, but its still as popular as the local production. Like his chernobyl brother, it can hold a small magazine if needed. Popular with bandits, mercs and some loners.\n \n
+        <text>.Adidas Fanny pack, not so different that the zone made one, but its still as popular as the local production. Like his chernobyl brother, it can hold a small magazine if needed. Popular with bandits, mercs and some loners.\n
 		%c[ui_gray_2]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] Everyday item\n
-		%c[d_cyan] • %c[ui_gray_2] Can be worn on the belt\n
-		</text>
+		%c[d_cyan] • %c[ui_gray_2] Can be worn on the belt</text>
     </string>
+
 	<string id="st_sidebag_name">
-        <text>Generic Sidebag.</text>
+        <text>Generic Sidebag</text>
     </string>
 	    <string id="st_sidebag_desc">
-        <text>A generic chinese made sidebag, made of some cheap but durable materials, found a lot in the zone and used for some cheap weight management, but this comes to a cost of being slower, more visible and more gear to get irridiated.\n \n
+        <text>A generic chinese made sidebag, made of some cheap but durable materials, found a lot in the zone and used for some cheap weight management, but this comes to a cost of being slower, more visible and more gear to get irridiated.\n
 		%c[ui_gray_2]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] Everyday item\n
 		%c[d_cyan] • %c[ui_gray_2] Can be worn on the belt\n
-		%c[d_cyan] • %c[ui_gray_2] Dual slot item\n
-		</text>
+		%c[d_cyan] • %c[ui_gray_2] Dual slot item</text>
     </string>
+
 	<string id="st_fannypacksuckpreme_name">
         <text>Supreme fanny pack</text>
     </string>
 	    <string id="st_fannypacksuckpreme_desc">
-        <text>Sometimes these supreme fanny (funny) packs make their way into the zone, maybe as a luxury item, maybe people come to the zone with it as if it was a drip contest. either way, it can hold a mag and help distributing weight but... are you sure that you want a bright red thing strapped to your body? maybe giving the enemy a free laser sight is the new drip. stop thinking about it, and be careful with that boar behind you....\n \n
+        <text>Sometimes these supreme fanny (funny) packs make their way into the zone, maybe as a luxury item, maybe people come to the zone with it as if it was a drip contest. either way, it can hold a mag and help distributing weight but... are you sure that you want a bright red thing strapped to your body? maybe giving the enemy a free laser sight is the new drip. stop thinking about it, and be careful with that boar behind you....\n
 		%c[ui_gray_2]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] Everyday item? Luxury item? Drip item?\n
-		%c[d_cyan] • %c[ui_gray_2] Can be worn on the belt\n
-		</text>
+		%c[d_cyan] • %c[ui_gray_2] Can be worn on the belt</text>
     </string>
 </string_table>
